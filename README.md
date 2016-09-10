@@ -29,4 +29,6 @@ brainstorm do the following:
    ![alt tag](https://cloud.githubusercontent.com/assets/8067672/18413756/9e071f4c-7780-11e6-8e6f-62c43c1f62ba.png)
 
 4. Right click at somewhere on window with 3-d image. From popped up menu select 
-   "Snapshot --> "
+   "Snapshot --> Save surface: Cortex"
+   A new surface will appear in your brainstorm protocol
+   ![alt tag](https://cloud.githubusercontent.com/assets/8067672/18413765/144793b2-7781-11e6-9ef0-476497f842a4.png)
