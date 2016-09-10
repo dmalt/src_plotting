@@ -21,7 +21,7 @@ brainstorm do the following:
 1. Launch brainstorm. Open your protocol
 2. Go to anatomies tab. Double click on high resolution surface you want to get inflated 
    brain for.
-   ![alt tag](https://cloud.githubusercontent.com/assets/8067672/18413714/be43f21e-777e-11e6-953d-c5e973d6cc76.png)
+   ![alt tag](https://cloud.githubusercontent.com/assets/8067672/18413735/d5eda38c-777f-11e6-96e7-7ae92ae070cb.png)
 
 3. A window with 3-d plot of the surface will pop up. Tweak the smoothing slider on the 
    right hand side of the main brainstorm window to get a desired level of smoothing. 
