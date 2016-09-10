@@ -2,7 +2,7 @@
 
 ## Installation
 
-Copy the files to your local machine and run from the same folder
+Copy the files to your local machine and change your working directory to the folder where you saved files to.
 
 ## Workflow
 
@@ -34,4 +34,6 @@ brainstorm do the following:
    ![alt tag](https://cloud.githubusercontent.com/assets/8067672/18413765/144793b2-7781-11e6-9ef0-476497f842a4.png)
 5. Right click on this surface and select "File --> Export to Matlab". Create a name for your variable surface in a popup window.
 
-That's it.
+
+
+For the rest see functions' docstrings.
