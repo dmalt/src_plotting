@@ -1,11 +1,11 @@
 # Tools to plot source-level colormaps and atlases in MATLAB.
 
-* plot_brain_cmap   - plot colormap for source-level data  masking out insighifican values
+* plot_brain_cmap   - plot colormap for source-level data with mask
 * plot_atlas		- plot significant patches on atlas
 
 ## Installation
 
-Copy the files to your local machine and change your working directory to the folder where you saved files to.
+Copy files to your local machine and change working directory in matlab to the folder with the files.
 
 ## Workflow
 
