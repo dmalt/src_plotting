@@ -10,9 +10,8 @@ Copy files to your local machine and change working directory in matlab to the f
 ## Workflow
 
 Functions in this package work with brainstorm-generated brain surfaces.
-One can either export those surfaces from brainstorm to a MATLAB variable
+You can either export those surfaces from brainstorm to a MATLAB variable
 or use .mat files with previously saved surfaces.
-
 
 
 High resolution surfaces must have at least ~1e5 vertices for smooth data plotting.
