@@ -26,5 +26,7 @@ brainstorm do the following:
 3. A window with 3-d plot of the surface will pop up. Tweak the smoothing slider on the 
    right hand side of the main brainstorm window to get a desired level of smoothing. 
    You will see changes on the window with 3-d image.
+   ![alt tag](https://cloud.githubusercontent.com/assets/8067672/18413756/9e071f4c-7780-11e6-8e6f-62c43c1f62ba.png)
+
 4. Right click at somewhere on window with 3-d image. From popped up menu select 
    "Snapshot --> "
