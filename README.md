@@ -1,7 +1,7 @@
 # Tools to plot source-level colormaps and atlases in MATLAB.
 
-* plot_brain_cmap   - source-level colormap plotting with masking
-* plot_atlas		- atlas plotting with masking
+* plot_brain_cmap   - plot colormap for source-level data  masking out insighifican values
+* plot_atlas		- plot significant patches on atlas
 
 ## Installation
 
