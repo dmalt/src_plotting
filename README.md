@@ -9,6 +9,8 @@ Copy files to your local machine and change working directory in matlab to the f
 
 ## Workflow
 
+### Importing brain surface
+-------------------
 Functions in this package work with brainstorm-generated brain surfaces.
 You can either export those surfaces from brainstorm to a MATLAB variable
 or use .mat files with previously saved surfaces.
@@ -21,7 +23,7 @@ Brainstorm supports exporting of inflated brain surfaces. To export inflated bra
 brainstorm do the following:
 
 1. Launch brainstorm. Open your protocol
-2. Go to anatomies tab. Double click on high resolution surface you want to get inflated brain for
+2. Go to anatomies tab. Double click on high resolution surface you want to get an inflated brain for
    brain for.
    ![alt tag](https://cloud.githubusercontent.com/assets/8067672/18413735/d5eda38c-777f-11e6-96e7-7ae92ae070cb.png)
 
@@ -36,6 +38,7 @@ brainstorm do the following:
    ![alt tag](https://cloud.githubusercontent.com/assets/8067672/18413765/144793b2-7781-11e6-9ef0-476497f842a4.png)
 5. Right click on this surface and select "File --> Export to Matlab". Create a name for your variable surface in a popup window.
 
+### Importing data from brainstorm
 
 
 For the rest see functions' docstrings.
